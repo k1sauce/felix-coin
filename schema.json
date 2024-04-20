@@ -1,9 +1,5 @@
 {
   "name": "FELIX", 
   "symbol": "FELIX",
-  "uri": "https://github.com/k1sauce/felix-coin/blob/6e2fd1323267433a61cef0c56059f6ff70b1bbb5/meta.json",
-  "sellerFeeBasisPoints": 0,
-  "creators": null,
-  "collection": null,
-  "uses": null
+  "uri": "https://github.com/k1sauce/felix-coin/blob/6e2fd1323267433a61cef0c56059f6ff70b1bbb5/meta.json"
 }
